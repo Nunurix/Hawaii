@@ -24,6 +24,6 @@ Usage
 To explore the detailed analysis and findings, please refer to the Hawaii.pdf. For a deeper dive into the data processing and analytical techniques used, open the Shark_project_2.ipynb file using Jupyter Notebook. This file provides a step-by-step walkthrough of the data cleaning and analysis process.
 
 Contact
-For any questions or further information, please contact us at info@analisisysoluciones.com. We welcome any feedback or inquiries regarding our analysis and recommendations.
+For any questions or further information, please contact us at soynuriagarcia@gmail.com . We welcome any feedback or inquiries regarding our analysis and recommendations.
 
 Thank you for your interest in our project. 
